@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Maria Eduarda ✨💖</h1>
 
-<!--
-**M4dari/M4dari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Sistemas de Informação (5º semestre - FIAP) <br>
+  💼 Estagiária em Ciência de Dados no Itaú <br>
+  💗 Apaixonada por dados, tecnologia e aprendizado contínuo
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Sobre mim
+
+Tenho 19 anos e estou no 5º semestre de Sistemas de Informação na FIAP 🎓  
+
+Atualmente sou estagiária em Ciência de Dados no Itaú, onde venho desenvolvendo minhas habilidades com dados e modelos 💼📊  
+
+Tenho muito interesse em **Ciência de Dados** e **Machine Learning**, e estou sempre buscando aprender mais e evoluir na área 💖✨  
+
+---
+
+## 🌷 Interesses
+
+- 📊 Ciência de Dados  
+- 🤖 Machine Learning  
+- 📈 Análise de Dados  
+- 📚 Estatística  
+
+---
+
+## 💻 Tecnologias
+
+- 🐍 Python  
+- 📊 Pandas  
+- 🔢 NumPy  
+
+---
+
+## 💌 Contato
+
+- 💼 LinkedIn: https://br.linkedin.com/in/madari-oliveira
+- 📧 Email: mariaah.oliveiraah@gmail.com  
+
+---
+
+<p align="center">
+  💗✨ obrigada por visitar meu perfil ✨💗
+</p>## Hi there 👋
+
+
