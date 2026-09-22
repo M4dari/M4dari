@@ -10,7 +10,7 @@
 
 ## ✨ Sobre mim
 
-Tenho 19 anos e estou no 5º semestre de Sistemas de Informação na FIAP 🎓  
+Tenho 19 anos e estou no 6º semestre de Sistemas de Informação na FIAP 🎓  
 
 Atualmente sou estagiária em Ciência de Dados no Itaú, onde venho desenvolvendo minhas habilidades com dados e modelos 💼📊  
 
